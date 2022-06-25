@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-06-25T02:38:08.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="KTEIbfZWCu7fihSYZHNW" type="github"><diagram id="Iuw9_JHPH3Cxb9EBXAJv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-25T02:41:44.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_7TBM8IQopXlHd-x0u4I" version="20.0.1" type="github">
+  <diagram id="Iuw9_JHPH3Cxb9EBXAJv" name="Page-1">
+    <mxGraphModel dx="1140" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lnxoAfdXyUGZrAoNTn-0-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;国情：新民主主义社会&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lnxoAfdXyUGZrAoNTn-0-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;过渡时期：1949~1956&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lnxoAfdXyUGZrAoNTn-0-4" value="前三年：&lt;br&gt;①完成民主革命遗留任务；&lt;br&gt;②恢复国民经济。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lnxoAfdXyUGZrAoNTn-0-5" value="后三年：&lt;br&gt;①工业化；&lt;br&gt;②社会主义改造。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lnxoAfdXyUGZrAoNTn-0-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lnxoAfdXyUGZrAoNTn-0-2" target="lnxoAfdXyUGZrAoNTn-0-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="290" as="sourcePoint" />
+            <mxPoint x="210" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnxoAfdXyUGZrAoNTn-0-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lnxoAfdXyUGZrAoNTn-0-2" target="lnxoAfdXyUGZrAoNTn-0-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="270" as="sourcePoint" />
+            <mxPoint x="650" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lnxoAfdXyUGZrAoNTn-0-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lnxoAfdXyUGZrAoNTn-0-2" target="lnxoAfdXyUGZrAoNTn-0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="240" as="sourcePoint" />
+            <mxPoint x="240" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
